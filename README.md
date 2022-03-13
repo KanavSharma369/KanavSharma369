@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KanavSharma369
-- 👀 I’m interested in Web developement in Java
+- 👀 I’m interested in Full Stack Web developement in Java
 - 🌱 I’m currently learning Java EE
 <!---
 - 💞️ I’m looking to collaborate on ...
