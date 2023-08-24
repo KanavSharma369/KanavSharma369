@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KanavSharma369
-- 👀 I’m interested in Full Stack Web developement in Java
-- 🌱 I’m currently learning Java EE
+- 👀 I’m interested in Full Stack Web development in Java
+- 🌱 I’m currently learning Spring Boot
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
